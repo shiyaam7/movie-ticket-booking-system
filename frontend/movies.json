@@ -1,0 +1,248 @@
+[
+  {
+    "movie name": "Avengers: Endgame",
+    "theatre name": "Cineplex Central",
+    "theatre location": "Metropolis",
+    "release date": "2019-04-26"
+  },
+  {
+    "movie name": "Inception",
+    "theatre name": "Starlight Cinemas",
+    "theatre location": "Downtown",
+    "release date": "2010-07-16"
+  },
+  {
+    "movie name": "The Lion King",
+    "theatre name": "Royal Theatres",
+    "theatre location": "Valleyview",
+    "release date": "2019-07-19"
+  },
+  {
+    "movie name": "Jurassic Park 3D",
+    "theatre name": "Millennium Screens",
+    "theatre location": "Green Hills",
+    "release date": "2013-04-05"
+  },
+  {
+    "movie name": "Toy Story 4",
+    "theatre name": "Sunnyvale Cinemas",
+    "theatre location": "Sunnyvale",
+    "release date": "2019-06-21"
+  },
+  {
+    "movie name": "Avatar 2",
+    "theatre name": "BlueSky Theatres",
+    "theatre location": "Bayside",
+    "release date": "2022-12-16"
+  },
+  {
+    "movie name": "The Dark Knight",
+    "theatre name": "Riverfront Movies",
+    "theatre location": "Downtown",
+    "release date": "2008-07-18"
+  },
+  {
+    "movie name": "Finding Nemo",
+    "theatre name": "Galaxy Theatres",
+    "theatre location": "Westwood",
+    "release date": "2003-05-30"
+  },
+  {
+    "movie name": "Jaws",
+    "theatre name": "Riviera Cinema",
+    "theatre location": "Coastal City",
+    "release date": "1975-06-20"
+  },
+  {
+    "movie name": "Interstellar",
+    "theatre name": "Stellar Cinemas",
+    "theatre location": "Orion City",
+    "release date": "2014-11-07"
+  },
+  {
+    "movie name": "Pulp Fiction",
+    "theatre name": "Grove Movies",
+    "theatre location": "Westwood",
+    "release date": "1994-10-14"
+  },
+  {
+    "movie name": "Frozen",
+    "theatre name": "Crystalplex",
+    "theatre location": "Midtown",
+    "release date": "2013-11-27"
+  },
+  {
+    "movie name": "The Matrix",
+    "theatre name": "NeoCine Pinnacle",
+    "theatre location": "Downtown",
+    "release date": "1999-03-31"
+  },
+  {
+    "movie name": "Mad Max: Fury Road",
+    "theatre name": "Desert Oasis Theatres",
+    "theatre location": "Sandtown",
+    "release date": "2015-05-15"
+  },
+  {
+    "movie name": "E.T. the Extra-Terrestrial",
+    "theatre name": "Starry Nights Cinema",
+    "theatre location": "Moonville",
+    "release date": "1982-06-11"
+  },
+  {
+    "movie name": "Black Panther",
+    "theatre name": "Uptown Screens",
+    "theatre location": "Metropolis",
+    "release date": "2018-02-16"
+  },
+  {
+    "movie name": "Titanic",
+    "theatre name": "Oceanview Theatres",
+    "theatre location": "Coastal City",
+    "release date": "1997-12-19"
+  },
+  {
+    "movie name": "The Avengers",
+    "theatre name": "Superplex Downtown",
+    "theatre location": "Downtown",
+    "release date": "2012-05-04"
+  },
+  {
+    "movie name": "Spider-Man: No Way Home",
+    "theatre name": "CineWorld Valleyview",
+    "theatre location": "Valleyview",
+    "release date": "2021-12-17"
+  },
+  {
+    "movie name": "The Shawshank Redemption",
+    "theatre name": "Gateway Cinemas",
+    "theatre location": "Midtown",
+    "release date": "1994-09-23"
+  },
+  {
+    "movie name": "The Lord of the Rings: The Fellowship of the Ring",
+    "theatre name": "Mystic Theatres",
+    "theatre location": "Fantasyville",
+    "release date": "2001-12-19"
+  },
+  {
+    "movie name": "Forrest Gump",
+    "theatre name": "Maplewood Cinema",
+    "theatre location": "Westwood",
+    "release date": "1994-07-06"
+  },
+  {
+    "movie name": "Guardians of the Galaxy",
+    "theatre name": "Stellar Screens",
+    "theatre location": "Orion City",
+    "release date": "2014-08-01"
+  },
+  {
+    "movie name": "Wonder Woman",
+    "theatre name": "Amazon Theatres",
+    "theatre location": "Metropolis",
+    "release date": "2017-06-02"
+  },
+  {
+    "movie name": "Back to the Future",
+    "theatre name": "Hill Valley Cinemas",
+    "theatre location": "Green Hills",
+    "release date": "1985-07-03"
+  },
+  {
+    "movie name": "The Sound of Music",
+    "theatre name": "Sunset Classics",
+    "theatre location": "Downtown",
+    "release date": "1965-03-02"
+  },
+  {
+    "movie name": "Jurassic World",
+    "theatre name": "Rex Theatre",
+    "theatre location": "Coastal City",
+    "release date": "2015-06-12"
+  },
+  {
+    "movie name": "Toy Story",
+    "theatre name": "Sunrise Cinemas",
+    "theatre location": "Sunnyvale",
+    "release date": "1995-11-22"
+  },
+  {
+    "movie name": "Avengers: Age of Ultron",
+    "theatre name": "Cineplex Central",
+    "theatre location": "Metropolis",
+    "release date": "2015-05-01"
+  },
+  {
+    "movie name": "The Godfather",
+    "theatre name": "Corleone Pictures",
+    "theatre location": "Little Italy",
+    "release date": "1972-03-24"
+  },
+  {
+    "movie name": "Deadpool",
+    "theatre name": "RedFox Theatres",
+    "theatre location": "Westwood",
+    "release date": "2016-02-12"
+  },
+  {
+    "movie name": "The Dark Knight Rises",
+    "theatre name": "Riverfront Movies",
+    "theatre location": "Downtown",
+    "release date": "2012-07-20"
+  },
+  {
+    "movie name": "Finding Dory",
+    "theatre name": "Galaxy Theatres",
+    "theatre location": "Westwood",
+    "release date": "2016-06-17"
+  },
+  {
+    "movie name": "Star Wars: The Force Awakens",
+    "theatre name": "Galactic Cinema",
+    "theatre location": "Fantasyville",
+    "release date": "2015-12-18"
+  },
+  {
+    "movie name": "Incredibles 2",
+    "theatre name": "MetroView Multiplex",
+    "theatre location": "Metropolis",
+    "release date": "2018-06-15"
+  },
+  {
+    "movie name": "The Lion King (2019)",
+    "theatre name": "Royal Theatres",
+    "theatre location": "Valleyview",
+    "release date": "2019-07-19"
+  },
+  {
+    "movie name": "E.T. the Extra-Terrestrial (Re-release)",
+    "theatre name": "Starry Nights Cinema",
+    "theatre location": "Moonville",
+    "release date": "2002-03-22"
+  },
+  {
+    "movie name": "Doctor Strange",
+    "theatre name": "Dimension Theatres",
+    "theatre location": "Downtown",
+    "release date": "2016-11-04"
+  },
+  {
+    "movie name": "The Martian",
+    "theatre name": "Red Planet Cinemas",
+    "theatre location": "Sandtown",
+    "release date": "2015-10-02"
+  },
+  {
+    "movie name": "Finding Nemo 3D",
+    "theatre name": "Galaxy Theatres",
+    "theatre location": "Westwood",
+    "release date": "2012-09-14"
+  },
+  {
+    "movie name": "The Lego Movie",
+    "theatre name": "BrickHouse Cinema",
+    "theatre location": "Sunnyvale",
+    "release date": "2014-02-07"
+  }
+]
